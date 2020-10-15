@@ -1,8 +1,11 @@
-# C files
+# c files
 *.o
+
+# dmenu files
 dmenu
 stest
+config.h
 
-# Patch files
+# patch files
 *.orig
 *.rej
