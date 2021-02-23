@@ -13,9 +13,6 @@ static const char *fonts[] = {
 #define bgalpha 0xe0
 #define fgalpha OPAQUE
 
-/* static const unsigned int bgalpha = 0xe0; */
-/* static const unsigned int fgalpha = OPAQUE; */
-
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
